@@ -1,0 +1,4 @@
+root: C:\Users\LENOVO\Downloads\Compressed\FOODHutFinaal-master\FOODHutFinaal-master\FOODHut 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
